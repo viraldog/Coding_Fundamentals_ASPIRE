@@ -1,6 +1,6 @@
 # Coding Fundamentals ASPIRE GitHub
 
-Welcome to our  coding workshop! This repo contains all of your lessons and activities! You can always come back to this on your own, and review what we went over at any point
+Welcome to our  coding workshop! This repo contains all of our lessons and activities! You can always come back to this on your own, and review what we went over at any point
 
 ## How To Use For The First Time
 
@@ -28,7 +28,7 @@ b. Open the folder for this week
 
 c. Edit and run that day's program (you can review that weeks lesson in the lesson_slides/ folder)
 
-### 4. (Optional but Recommended) Set Up the Teacher's Repository as "Upstream"
+### 4. Set Up the Teacher's Repository as "Upstream"
 
 This will let you get new lessons later.
 
@@ -38,14 +38,29 @@ a. Copy and Paste this into the Terminal:
 git remote add upstream https://github.com/isabelleviraldo/Coding_Fundamentals_ASPIRE.git
 ```
 
-## How To Open The Terminal For The First Time
+### 5. EVERY WEEK Get The Latest Update
 
-1. Go to the top right menu (3 horizontal bars) > Terminal > New Terminal (or just use ctrl + shift + c)
+a. Open the Terminal
 
-2. You will be prompted to choose the number of cores and amount of ram, this doesnt matter, so pick whichever
+b. Copy and Paste this into the Terminal
+
+```
+git pull upstream main
+```
+
+
+## How to Quickly Open Your Codespace
+
+Just press the period key on your device (this -> . )
+
+## How To Open The Terminal
+
+1. Go to the top left menu (3 horizontal bars) > Terminal > New Terminal (or just use ctrl + shift + c)
+
+2. (for your first time) You will be prompted to choose the number of cores and amount of ram, this doesnt matter, so pick whichever (more is usually for bigger programs btw)
 
 ## How To Run A Program
 
 1. Go to the file you want to run
 
-2. In the top right, press the play button, this will open a terminal for the program
+2. In the top right, press the play button, this will open a terminal for the program and run it

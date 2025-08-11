@@ -57,7 +57,9 @@ Just press the period key on your device (this -> . )
 
 1. Go to the top left menu (3 horizontal bars) > Terminal > New Terminal (or just use ctrl + shift + c)
 
-2. (for your first time) You will be prompted to choose the number of cores and amount of ram, this doesnt matter, so pick whichever (more is usually for bigger programs btw)
+2. Continue Working in GitHub Codespaces
+
+3. You will be prompted to choose the number of cores and amount of ram, this doesnt matter, so pick whichever (more is usually for bigger programs btw)
 
 ## How To Run A Program
 

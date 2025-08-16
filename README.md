@@ -1,6 +1,16 @@
 # Coding Fundamentals ASPIRE GitHub
 
-Welcome to our  coding workshop! This repo contains all of our lessons and activities! You can always come back to this on your own, and review what we went over at any point
+Welcome to our  coding workshop! This repo contains all of our lessons and activities! You can always come back to this on your own, and review what we went over at any point!
+
+In this ASPIRE, we are going to be learning core programming skills in Python, problem-solving, and gaining some great exposure to advanced ideas within programming to best prepare you for your future in computer science!
+
+Where: The EDGE Lab
+
+When:
+
+Mondays:  7:15 - 8:15 am
+
+Fridays:   8:30 - 9:30 am
 
 ## How To Use For The First Time
 

@@ -14,6 +14,10 @@ Fridays:   8:30 - 9:30 am
 
 ## How To Use For The First Time
 
+### 0. Make Sure You Have a GitHub Account
+
+a. Just create an account, as a note, you should make this account attached to an email you will have after high school, so you can always keep your code
+
 ### 1. Fork the Workshop Repository
 
 a. Click the "Fork" button (top right corner).
